@@ -6,4 +6,4 @@
 node app.js
 ````
 
-# sistema-de-cadastro
+:)
